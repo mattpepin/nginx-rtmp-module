@@ -10,15 +10,6 @@
 
   https://github.com/arut/nginx-rtmp-module/wiki/Directives
 
-### Google group
-
-  https://groups.google.com/group/nginx-rtmp
-
-  https://groups.google.com/group/nginx-rtmp-ru (Russian)
-
-### Donation page (Paypal etc)
-
-  http://arut.github.com/nginx-rtmp-module/
 
 ### Features
 
